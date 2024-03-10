@@ -1,4 +1,4 @@
-👋 Hi there! I'm Rodiyah Oluwa, a data analyst and aspiring data scientist based in Middlesbrough, United Kingdom. With a solid foundation in economics and a master's degree in applied data science from Teesside University, I'm passionate about leveraging data to drive business decisions and solve complex problems.
+👋 Hi there! I'm Rodiyah Oluwa, a data scientist based in United Kingdom. With a solid foundation in economics and a master's degree in applied data science from Teesside University, I'm passionate about leveraging data to drive business decisions and solve complex problems.
 
 🎓 EDUCATION:
 MSc. Applied Data Science, Teesside University, United Kingdom.
