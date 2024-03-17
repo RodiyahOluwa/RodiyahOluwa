@@ -1,38 +1,34 @@
-👋 Hi there! I'm Rodiyah Oluwa, a data scientist based in United Kingdom. With a solid foundation in economics and a master's degree in applied data science from Teesside University, I'm passionate about leveraging data to drive business decisions and solve complex problems.
+Rodiyah Onaopemipo Oluwa
+Welcome to my GitHub profile! I am Rodiyah Onaopemipo Oluwa, an experienced data scientist passionate about leveraging advanced data analytics and machine learning to drive business insights and innovation. Here you'll find a collection of my projects and contributions in the field of data science and analytics.
 
-🎓 EDUCATION:
-MSc. Applied Data Science, Teesside University, United Kingdom.
-BSc. Economics (First Class Honors), Lagos State University, Nigeria.
+About Me
+I hold an MSc. in Applied Data Science from Teesside University, United Kingdom, and a BSc. in Economics from Lagos State University, Nigeria. With a proven track record of optimizing business operations and enhancing operational efficiency through data-driven strategies, I am dedicated to delivering measurable results and driving innovation.
 
-💻 TECHNICAL SKILLS:
-Languages: Python, SQL
-Visualization: Tableau, Power BI, MS Excel
-Libraries: Scikit-learn, Pandas, TensorFlow, NumPy, Seaborn, Matplotlib
-Soft Skills: Report Writing, Critical Thinking, Research, Time Management.
+Featured Projects
+Machine Learning Proficiency
+Developed predictive models using Python and R programming, enhancing forecasting accuracy and facilitating strategic decision-making for business planning.
+Power-BI Expertise
+Designed interactive dashboards and performed data transformation using Power BI, streamlining data analysis processes and reducing reporting time.
+Python Script Automation
+Implemented Python scripts to automate data processing tasks, increasing efficiency and ensuring best practices in data analysis.
+Spatial Data Analysis
+Leveraged R and Python for spatial data analysis, providing geographic insights for business decision-making and identifying regional trends and opportunities.
 
-🚀 FEATURED PROJECTS:
-Machine Learning Proficiency in Python & R: Developed predictive models and interpreted data using Python and R, integrating advanced machine learning techniques with programming skills to enhance forecasting accuracy and drive strategic planning.
-Power-BI Expertise with DAX & M-Language: Proficient in creating interactive dashboards and data modeling with Power BI, utilizing DAX and M-Language for complex computations.
-Continuous Improvement in Python: Actively expanding Python skills for various data science applications to improve exploratory data analysis and machine learning.
-Spatial Data Analysis: Skilled in visualizing and generating geographic insights from non-geocoded data using R and Python.
+Work Experience
+Freelance Data Scientist (Remote)
+Leveraged expertise in data science and machine learning to provide tailored solutions to clients across various industries.
+Developed predictive models, conducted data analysis, and generated actionable insights to drive business decisions and optimize operations.
+Lifeful Medical Center, Lagos State, Nigeria
+Spearheaded data-driven initiatives to optimize operational processes and improve patient outcomes in a healthcare setting.
+Developed and deployed predictive models using machine learning techniques to forecast patient admission rates and streamline resource allocation.
+Utilized Power BI to create interactive dashboards for real-time monitoring of key performance indicators, enabling proactive decision-making during the pandemic.
 
-💼 WORK EXPERIENCE:
-Data Analyst at Lifeful Medical Center, Lagos State, Nigeria (May 2020 - Present)
-Roles:
-Conducted performance analyses, developed a Covid-19 dashboard, and forecasted sales to support strategic decision-making.
-Utilized advanced data analytics techniques to generate actionable insights and improve operational efficiency.
-Collaborated cross-functionally to identify process improvement opportunities and created analytical reports for informed decision-making.
+Skills and Expertise
+Data Analysis: Proficient in analyzing large datasets and extracting actionable insights.
+Machine Learning: Experienced in developing and deploying predictive models for various tasks.
+Data Visualization: Skilled in creating interactive dashboards and visualizations to communicate complex data effectively.
+Programming: Advanced proficiency in Python, SQL, and R for data manipulation and model development.
+Problem-Solving: Strong problem-solving ability to address complex analytical challenges.
+Communication: Excellent verbal and written communication skills, with the ability to convey technical concepts to non-technical stakeholders.
 
-🔗 PORTFOLIO:
-Explore my project portfolio here to see examples of my work.
-
-💡 SKILLS AND EXPERTISE:
-Analytical & Critical Thinking
-Excellent interpersonal and communication skills
-Teamwork and Collaboration
-Problem-solving ability
-Time Management
-Microsoft Office Suite proficiency
-Adaptability to diverse environments
-
-📧 Feel free to reach out to me at oluwarodiyah@gmail.com or give me a call at +447778765583. Let's connect and collaborate on exciting data projects!
+Feel free to explore my projects and reach out if you have any questions or collaboration opportunities!
